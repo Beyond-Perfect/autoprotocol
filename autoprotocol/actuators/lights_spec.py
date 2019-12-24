@@ -27,4 +27,3 @@ lights.segmentOn(1, 0.5)    # Set segment 1 of 3 to on
 lights.segmentOff(3)        # Set segment 3 of 3 to off
 
 lights.segmentRGB(1, (255, 0, 0))   # Set segment 1 of 3 to red
-

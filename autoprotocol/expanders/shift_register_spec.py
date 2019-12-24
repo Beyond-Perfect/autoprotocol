@@ -12,3 +12,4 @@ shift_register_1 = Shift_Register(pins={
 # a) Real pins are in use
 # b) Virtual pin numbers exist already as either real or virtual pins
 # c) Some component is already using those virtual pins
+# d) Pin is used as input
