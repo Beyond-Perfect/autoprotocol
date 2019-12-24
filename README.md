@@ -8,7 +8,7 @@
 #### Sensors:
 - Analog
   - Temperature
-  - pH (potentially using strips instead of sensor)
+  - pH (Either using a pH sensor and cleaning box or pipetting sample on pH strips and using camera to classify pH)
   - Humidity
   - Pressure
 - Digital
