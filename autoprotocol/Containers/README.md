@@ -4,7 +4,8 @@
 ```class deck(...):
       def __init__(
           self, pin = None, ...):
-          pass```
+          pass 
+```
 
 ### shake_flask
 
