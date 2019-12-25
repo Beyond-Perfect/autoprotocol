@@ -28,6 +28,8 @@ https://drive.google.com/drive/folders/1cWuKMD6ym9xJr3LIhkoRn3-eT_T4OhI6
 
 
 Lots more to add...
-##MVP - Goals:
-1.  
-2. 
+## MVP - Goals:
+  1. Take samples from static location
+  2. 
+  3.
+  4. ... April tags
