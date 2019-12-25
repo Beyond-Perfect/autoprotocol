@@ -2,7 +2,7 @@
 
 ### deck:
 ```
-class Container(object):
+class Container:
     def __init__(self, x, y, z):
         self.x = x 
         self.y = y
