@@ -3,7 +3,7 @@
 ### deck:
 ```
 class deck(...):
-      def __init(self, pins = None, ...):
+      def __init__(self, pins = None, ...):
             pass
 ```
 [Source](https://www.google.com)
