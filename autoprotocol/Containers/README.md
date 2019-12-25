@@ -1,10 +1,10 @@
 # Containers
 
 ### deck
-```class deck(...):
-      def __init__(
-          self, pin = None, ...):
-          pass 
+```
+class deck(...):
+      def __init(self, pins = None, ...):
+            pass
 ```
 
 ### shake_flask
