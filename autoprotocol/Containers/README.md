@@ -2,7 +2,7 @@
 
 ### deck:
 ```
-class deck(...):
+class Container.deck(...):
       def __init__(self, pins = None, ...):
             pass
 ```
