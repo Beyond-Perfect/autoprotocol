@@ -4,11 +4,6 @@
 
 #### Actuators:
   - Lights
-    - Questions: 
-      1. Model name of the LED strip 
-      2. Should we have external power supply/chord and adapter so that the pi doesnt have to power the strip?
-      3. Instead of making out or classes and functions to control the LEDs why not import gpiozero.LED or RGBLED or PWMLED, the built in funcs seem to do pretty much all we want.
-          
   - Plate Shaker
 #### Sensors:
 - Analog
