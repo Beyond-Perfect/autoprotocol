@@ -1,4 +1,4 @@
-from Containers import container, consts
+from containers import container, consts
 
 
 sflask = Container(shake_flask(consts.ML25), DECK_POSITIONS[1]) # creates 25ml shake flask at position1 on deck
